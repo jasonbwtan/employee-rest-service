@@ -1,0 +1,1 @@
+insert into DEPARTMENT (department_id,name) values (1, 'DEPT1');
